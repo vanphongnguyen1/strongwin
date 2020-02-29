@@ -1,3 +1,5 @@
-e
-e
-e
+git clone
+git add "tên file" (sắp được đưa lên server)
+git status (nhánh)
+git commit -m"nội dung"(lưu chú thao tác)
+git push origin master (đưa file lên github)
